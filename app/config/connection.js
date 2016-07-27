@@ -17,6 +17,11 @@ var source = {
     jawsDB: {
 
         // TODO: Add your JawsDB connection info here
+        port: 3306,
+        host: 'localhost',
+        user: 'root',
+        password: "Njmitx123",
+        database: "starwars"
     }
 }
 
