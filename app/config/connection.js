@@ -18,9 +18,9 @@ var source = {
 
         // TODO: Add your JawsDB connection info here
         port: 3306,
-        host: 'localhost',
-        user: 'root',
-        password: "Njmitx123",
+        host: 'l9dwvv6j64hlhpul.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+        user: 'h68wg111ig1fpq1t',
+        password: "t2nxelpsbb3x34he",
         database: "starwars"
     }
 }
